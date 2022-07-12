@@ -1,0 +1,38 @@
+
+    "basics": {
+        "name": "Ajinkya Batki",
+        "email": "ajinkyabatki@gmail.com",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "phone": "7743914185",
+        "location" : {
+            "city": "Chandrapur",
+            "pincode": "442907"
+        },
+        "profiles": [{
+            "network" : "Linkedin",
+            "username" : "ajinkya",
+            "url" : "https://www.linkedin.com/in/ajinkya/"
+        }]
+},
+"education": [{
+    "institution 1" : "Pune University",
+    "studyType 1" : "Bachelor",
+    "score 1" : "7.5",
+    "institution 2": "Shivaji Science College",
+    "studyType 2" : "HSC",
+    "score 2" : "80%",
+}],
+"languages": [{
+    "language 1" : "English",
+    "language 2" : "Hindi",
+    "language 3" : "Marathi"
+}],
+"interests": [{
+    "interest 1" : "swimming",
+    "interest 2" : "driving"
+}],
+"projects": [{
+    "project 1" : "Tribological investigations on the performance of lubricants used in gearbox of cnc bending machine",
+    "highlight" : "published in reputed journal Springer",
+    "project 2" : "Study of floating windmill and its future scope"
+    }]
